@@ -41,7 +41,7 @@ let score = 0;
 // initialize time
 let time = 10;
 
-// focus on text start - give this as HW
+// ! focus on text start - give this as HW
 text.focus();
 
 // start counting down
